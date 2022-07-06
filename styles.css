@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.recipe.list {
+    background-color: yellow;
+    width: fit-content;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
